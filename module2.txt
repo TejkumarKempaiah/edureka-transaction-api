@@ -1,0 +1,13 @@
+Name of the Module: Getting started with Git
+Activities to be done: 
+
+1. Create a remote repo
+2. Clone it to the local system
+3. Check the current branch of the local which is master
+4. Created a .txt file names module2.txt
+5. Added some data into the file and saved it
+6. Added the file from untracked area to tracked area
+7. Moved the file into staging area by commit operation
+8. pushed the local changes to remote repo
+9. Take the snap shot of the same and paste it LMS "Submit Assignment" section
+10. Share the commit id, repo URI in the "Submit Assignment" section
